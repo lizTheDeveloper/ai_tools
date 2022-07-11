@@ -1,0 +1,15 @@
+In this module on NumPy, we'll discuss What is NumPy?
+
+Learning Objectives
+- Discuss the basic functionality of NumPy.
+- Learn about NumPy's ndarray object.
+- Slice and index NumPy arrays.
+- Perform basic NumPy operations.
+
+NumPy is a Python library for scientific computing. NumPy contains a powerful data structure called the ndarray. NumPy arrays are used to store large amounts of data very efficiently.
+
+NumPy arrays are also very efficient for performing mathematical operations on data. In fact, many of the functions in NumPy are written in C, which makes them much faster than equivalent functions written in pure Python.
+
+One of the most important features of NumPy is its ability to perform matrix operations on data. NumPy arrays can be used to represent matrices, and NumPy provides a wide variety of functions for matrix operations.
+
+In this module, we'll discuss the basics of NumPy arrays and matrix operations. We'll also learn how to index and slice NumPy arrays.

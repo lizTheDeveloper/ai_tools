@@ -1,0 +1,3 @@
+-Analyze data to find trends
+-Organize data into a format that is easy to understand
+-Create graphs and charts to visualize data 

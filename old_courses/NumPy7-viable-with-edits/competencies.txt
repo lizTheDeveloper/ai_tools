@@ -1,0 +1,3 @@
+Analyzing data to find trends
+-Organizing data into a usable format
+-Extracting relevant information from data

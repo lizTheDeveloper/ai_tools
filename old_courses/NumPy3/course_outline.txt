@@ -1,0 +1,15 @@
+
+
+4. Generate NumPy data structures using various methods and functions.
+
+5. Manipulate NumPy data structures to achieve desired results.
+
+6. Understand the principles of NumPy arrays including indexing, broadcasting, and vectorization.
+
+7. Understand the use of NumPy in scientific computing including linear algebra, Fourier transforms, and random number generation.
+
+8. Understand the impact of NumPy on performance including memory management and optimization techniques.
+
+9. Understand advanced NumPy concepts including masked arrays, structured arrays, and record arrays.
+
+10. Understand the use of NumPy in conjunction with other Python libraries including Pandas, SciPy, and Matplotlib.

@@ -1,0 +1,107 @@
+#NumPy: NumPy with Pandas
+#NumPy with Pandas
+
+#### Module Overview 
+ In this module on NumPy with Pandas, we'll discuss NumPy with Pandas. 
+
+ Learning Objectives: 
+
+-  NumPy with Pandas 
+-  Creating Dataframes from NumPy 
+-  Visualization With Pandas 
+-  Reading CSV Files with Pandas 
+-  Reading Excel Files with Pandas 
+-  Saving CSV and Excel Files with Pandas 
+-  Data Wrangling with Pandas 
+-  Creating Dataframes from NumPy
+-  Visualization with Pandas
+-  Reading CSV Files with Pandas
+-  Reading Excel Files with Pandas
+-  Saving CSV and Excel Files with Pandas
+-  Data Wrangling with Pandas
+
+
+ 
+#### Module Content:
+- NumPy with Pandas
+- Creating Dataframes from NumPy
+- Visualization with Pandas
+- Reading CSV Files with Pandas
+- Reading Excel Files with Pandas
+- Saving CSV and Excel Files with Pandas
+- Data Wrangling with Pandas
+
+
+
+## NumPy with Pandas
+
+In this section, we will see how to use pandas with NumPy. 
+
+#### Creating Dataframes from NumPy
+
+We can create dataframes from NumPy. For example,
+```python
+import pandas as pd
+import numpy as np
+df = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
+                 columns=['A', 'B', 'C'])
+```
+This will create a dataframe with 3 rows and 3 columns.
+
+#### Visualization with Pandas
+
+We can visualize dataframes using pandas. For example,
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+df = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
+                 columns=['A', 'B', 'C'])
+df.plot()
+plt.show()
+```
+This will plot the dataframe.
+
+#### Reading CSV Files with Pandas
+
+We can read CSV files with pandas. For example,
+```python
+import pandas as pd
+df = pd.read_csv('file.csv')
+```
+This will read the CSV file into a dataframe.
+
+#### Reading Excel Files with Pandas
+
+We can read Excel files with pandas. For example,
+```python
+import pandas as pd
+df = pd.read_excel('file.xlsx')
+```
+This will read the Excel file into a dataframe.
+
+#### Saving CSV and Excel Files with Pandas
+
+We can save CSV and Excel files with pandas. For example,
+```python
+import pandas as pd
+df = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
+                 columns=['A', 'B', 'C'])
+df.to_csv('file.csv')
+df.to_excel('file.xlsx')
+```
+This will save the dataframe to a CSV file and an Excel file.
+
+#### Data Wrangling with Pandas
+
+We can wrangle data with pandas. For example,
+```python
+import pandas as pd
+df = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
+                 columns=['A', 'B', 'C'])
+df['A'] # select column A
+df.loc[0] # select row 0
+df.iloc[0] # select row 0
+df[0:2] # select rows 0 and 1
+```
+This will select data from the dataframe.

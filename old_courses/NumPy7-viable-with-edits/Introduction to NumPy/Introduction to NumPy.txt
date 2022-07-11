@@ -1,0 +1,80 @@
+#NumPy: Introduction to NumPy
+#Introduction to NumPy
+
+#### Module Overview 
+ In this module on Introduction to NumPy, we'll discuss Introduction to NumPy. 
+
+ Learning Objectives: 
+
+-  What is NumPy? 
+-  What all NumPy provides? 
+-  Why should we use NumPy? 
+-  What are the advantages of NumPy? 
+-  How to create an array in NumPy? 
+-  What are the types of arrays in NumPy? 
+-  What are multidimensional arrays? 
+-  What is the difference between NumPy array and list? 
+-  What are NumPy arrays used for? 
+-  What are NumPy data types? 
+
+
+#### What is NumPy? 
+ NumPy is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more. 
+
+ 
+
+#### What all NumPy provides? 
+ NumPy mainly provides: 
+-  a powerful N-dimensional array object 
+-  sophisticated (broadcasting) functions 
+-  tools for integrating C/C++ and Fortran code 
+-  useful linear algebra, Fourier transform, and random number capabilities 
+
+ 
+
+#### Why should we use NumPy? 
+ NumPy is useful in scientific computing because it has efficient routines for performing basic calculations on large arrays and matrices. As NumPy is written in C, all NumPy routines run about as fast as their equivalent in compiled languages. 
+
+ 
+
+#### What are the advantages of NumPy? 
+ NumPy has the following advantages over other Python libraries: 
+-  Efficient operations on NumPy arrays can be executed on the CPU much faster than equivalent operations on Python lists. 
+-  NumPy arrays enable you to express calculations with more natural syntax than is possible with lists. 
+-  NumPy arrays enable you to avoid explicit looping, which tends to be slow in Python. 
+-  NumPy arrays make it easy to read and write large arrays and matrices of numerical data. 
+-  NumPy arrays can be used as the basis for efficient algorithms implemented in C, C++, and Fortran. 
+
+ 
+
+#### How to create an array in NumPy? 
+ NumPy arrays are created by calling the array() function with a list of numbers. The array function can take a list of numbers as an argument, and it will return a NumPy array containing those numbers. 
+
+```python
+a = np.array([1,2,3,4])
+print(a)
+```
+
+
+#### What are the types of arrays in NumPy? 
+ NumPy arrays come in two flavors: vectorized arrays and structured arrays. 
+
+ 
+
+#### What are multidimensional arrays? 
+ Multidimensional arrays are arrays that have more than one dimension. They are also called N-dimensional arrays or tensors. Most NumPy operations work on multidimensional arrays. 
+
+ 
+
+#### What is the difference between NumPy array and list? 
+ NumPy arrays are homogeneous data structures, which means that all elements of an array must be of the same data type. In contrast, lists are heterogeneous data structures, which means that the elements of a list can be of any data type. 
+
+ 
+
+#### What are NumPy arrays used for? 
+ NumPy arrays can be used for a wide variety of tasks in scientific computing, from basic operations like addition, subtraction, multiplication, and division, to more sophisticated operations like calculating the Fourier transform of an image. 
+
+ 
+
+#### What are NumPy data types? 
+ NumPy arrays come in two flavors: vectorized arrays and structured arrays. Vectorized arrays are arrays that have a uniform type, i.e. all elements of the array are of the same type. Structured arrays are arrays that have a heterogeneous type, i.e. the elements of the array can be of different types.

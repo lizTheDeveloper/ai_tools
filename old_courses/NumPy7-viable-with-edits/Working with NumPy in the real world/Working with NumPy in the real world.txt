@@ -1,0 +1,83 @@
+#NumPy: Working with NumPy in the real world
+#Working with NumPy in the real world
+
+#### Module Overview 
+ In this module on Working with NumPy in the real world, we'll discuss Working with NumPy in the real world. 
+
+ Learning Objectives: 
+
+- 
+- 
+- 
+- 
+
+ ## Install NumPy 
+ 
+ 
+ In order to work with NumPy, you will need to install it. The best way to do that is to use one of the major package managers, such as conda or pip.
+ 
+ ### Install NumPy with pip
+
+pip is a package manager for installing and managing Python packages.
+
+To install NumPy with pip, type the following:
+
+``
+pip install numpy
+``
+ 
+
+ ### Install NumPy with conda
+ 
+ 
+Conda is a package manager for installing and managing Python packages.
+
+To install NumPy with conda, type the following:
+
+``
+conda install numpy
+``
+
+## NumPy arrays
+
+
+
+### Creating NumPy arrays
+
+There are a number of ways to create NumPy arrays. The simplest way is to create them from lists, using the `array` function:
+
+```python
+import numpy as np
+
+a = np.array([1, 2, 3, 4, 5])
+```
+
+
+
+### NumPy array attributes
+
+NumPy arrays have a number of useful attributes, such as `ndim`, `shape`, and `size`.
+
+
+
+### NumPy array indexing and slicing
+
+Indexing and slicing NumPy arrays is similar to indexing and slicing lists in Python, with a few important differences.
+
+
+
+### NumPy array operations
+
+NumPy arrays support element-wise operations, such as `+`, `-`, `*`, and `/`.
+
+
+
+## NumPy random numbers
+
+The `random` module in NumPy provides functions for generating random numbers.
+
+
+
+## NumPy linear algebra
+
+The `linalg` module in NumPy provides functions for linear algebra, such as matrix multiplication, matrix inverse, and eigenvalues and eigenvectors.

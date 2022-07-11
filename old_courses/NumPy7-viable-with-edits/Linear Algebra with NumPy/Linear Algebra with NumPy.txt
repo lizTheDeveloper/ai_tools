@@ -1,0 +1,118 @@
+#NumPy: Linear Algebra with NumPy
+#Linear Algebra with NumPy
+
+#### Module Overview 
+ In this module on Linear Algebra with NumPy, we'll discuss Linear Algebra with NumPy. 
+
+ Learning Objectives: 
+
+- 
+
+##### 1. What is Linear Algebra?
+Linear Algebra is the branch of mathematics that deals with vector spaces. It is the foundation of much of modern mathematics and has been instrumental in the development of physics and engineering. Linear Algebra is the study of linear equations and their solutions. Linear equations are equations that can be written in the form:
+
+a_1x_1 + a_2x_2 + ... + a_nx_n = b
+
+where a_1, a_2, ..., a_n are coefficients and x_1, x_2, ..., x_n are variables. The solutions to a linear equation are the values of the variables that make the equation true.
+
+##### 2. What is a Vector?
+A vector is an ordered list of numbers. Vectors can be represented in two ways:
+
+- as a column vector:
+
+$$\begin{bmatrix}
+    x_1\\
+    x_2\\
+    \vdots\\
+    x_n
+\end{bmatrix}$$
+
+- as a row vector:
+
+$$\begin{bmatrix}
+    x_1 & x_2 & \cdots & x_n
+\end{bmatrix}$$
+
+##### 3. What is a Matrix?
+A matrix is a two-dimensional array of numbers. A matrix with m rows and n columns can be represented as:
+
+$$\begin{bmatrix}
+    a_{11} & a_{12} & \cdots & a_{1n}\\
+    a_{21} & a_{22} & \cdots & a_{2n}\\
+    \vdots & \vdots & \ddots & \vdots\\
+    a_{m1} & a_{m2} & \cdots & a_{mn}
+\end{bmatrix}$$
+
+##### 4. What is a Matrix Operation?
+A matrix operation is a process that can be performed on a matrix to transform it in some way. The most common matrix operations are addition, subtraction, multiplication, and transposition.
+
+##### 5. What is Matrix Addition?
+Matrix addition is the operation of adding two matrices of the same size. To add two matrices, we add the corresponding elements:
+
+$$\begin{bmatrix}
+    a & b\\
+    c & d
+\end{bmatrix}
++
+\begin{bmatrix}
+    e & f\\
+    g & h
+\end{bmatrix}
+=
+\begin{bmatrix}
+    a+e & b+f\\
+    c+g & d+h
+\end{bmatrix}$$
+
+##### 6. What is Matrix Subtraction?
+Matrix subtraction is the operation of subtracting two matrices of the same size. To subtract two matrices, we subtract the corresponding elements:
+
+$$\begin{bmatrix}
+    a & b\\
+    c & d
+\end{bmatrix}
+-
+\begin{bmatrix}
+    e & f\\
+    g & h
+\end{bmatrix}
+=
+\begin{bmatrix}
+    a-e & b-f\\
+    c-g & d-h
+\end{bmatrix}$$
+
+##### 7. What is Matrix Multiplication?
+Matrix multiplication is the operation of multiplying two matrices. To multiply a matrix by another matrix we need to do the "dot product" of rows and columns
+
+$$\begin{bmatrix}
+    a & b\\
+    c & d
+\end{bmatrix}
+\begin{bmatrix}
+    e & f\\
+    g & h
+\end{bmatrix}
+=
+\begin{bmatrix}
+    ae+bg & af+bh\\
+    ce+dg & cf+dh
+\end{bmatrix}$$
+
+##### 8. What is Matrix Transposition?
+Matrix transposition is the operation of flipping a matrix over its diagonal. The resulting matrix is called the transpose of the original matrix.
+
+$$\begin{bmatrix}
+    a & b & c\\
+    d & e & f
+\end{bmatrix}
+^T
+=
+\begin{bmatrix}
+    a & d\\
+    b & e\\
+    c & f
+\end{bmatrix}$$
+
+##### 9. What is the Identity Matrix?
+The identity matrix is

@@ -1,0 +1,35 @@
+
+
+Week 1:
+
+1.1 Introduction
+
+1.2 Creating NumPy Arrays
+
+1.3 Manipulating NumPy Arrays
+
+1.4 Indexing and Slicing NumPy Arrays
+
+1.5 NumPy Array Operations
+
+Week 2:
+
+2.1 NumPy Array Methods
+
+2.2 NumPy Array Broadcasting
+
+2.3 NumPy Array Linear Algebra
+
+2.4 NumPy Array Statistics
+
+Week 3:
+
+3.1 NumPy Array File Input/Output
+
+3.2 NumPy Array Masking
+
+3.3 NumPy Array Manipulation
+
+3.4 NumPy Array Shape Manipulation
+
+3.5 Conclusion

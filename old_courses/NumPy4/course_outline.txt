@@ -1,0 +1,10 @@
+
+4. Index NumPy arrays
+5. Slice NumPy arrays
+6. Reshape NumPy arrays
+7. Join NumPy arrays
+8. Split NumPy arrays
+9. Search NumPy arrays
+10. Sort NumPy arrays
+11. Filter NumPy arrays
+12. Convert NumPy arrays

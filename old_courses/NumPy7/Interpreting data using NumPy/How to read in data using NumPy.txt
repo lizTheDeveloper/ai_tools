@@ -1,0 +1,8 @@
+
+NumPy is a Python library that provides a set of tools for dealing with numerical data.
+
+NumPy's main object is the ndarray, which is a multidimensional array object.
+
+In this tutorial, we will cover how to use NumPy to load and manipulate data.
+
+We will also cover how to use NumPy's powerful indexing features to select and extract data.

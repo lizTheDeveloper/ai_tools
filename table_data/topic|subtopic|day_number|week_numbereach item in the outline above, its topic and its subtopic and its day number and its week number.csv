@@ -1,0 +1,38 @@
+| topic|subtopic|day_number|week_number |
+|:-------|:--------|:-------------|:--------------| 
+|Introduction to Python|What is Python?|Monday|1| 
+|Introduction to Python|Why learn Python?|Monday|1| 
+|Introduction to Python|How is Python different from other languages?|Monday|1| 
+|Installation and Environment Setup|Installing Python|Tuesday|1 
+|Installation and Environment Setup|Configuring your environment|Tuesday|1 
+|Basic Syntax|Data types|Wednesday|1 
+|Basic Syntax|Variables|Wednesday|1 
+|Basic Syntax|Basic input and output|Wednesday|1 
+|Basic Syntax|Basic operators|Wednesday|1 
+|Conditionals and Loops|Control flow|Thursday|1 
+|Conditionals and Loops|For and while loops|Thursday|1 
+|Conditionals and Loops|Break and continue statements|Thursday|1 
+|Conditionals and Loops|Try and except statements|Thursday|1 
+|Functions|Defining functions|Friday|1 
+|Functions|Calling functions|Friday|1 
+|Functions|Function arguments|Friday|1 
+|Lists, Tuples, and Dictionaries|Lists|Monday|2 
+|Lists, Tuples, and Dictionaries|Tuples|Monday|2 
+|Lists, Tuples, and Dictionaries|Dictionaries|Monday|2 
+|Files and Exceptions|Reading and writing files|Tuesday|2 
+|Files and Exceptions|Exceptions|Tuesday|2 
+|Modules|Creating modules|Wednesday|2 
+|Modules|Importing modules|Wednesday|2 
+|Modules|The Python Standard Library|Wednesday|2 
+|Classes and Objects I|Introduction to classes and objects|Thursday|2 
+|Classes and Objects I|Creating classes and objects|Thursday|2 
+|Classes and Objects I|Accessing attributes|Thursday|2 
+|Classes and Objects I|Built-in class attributes|Thursday|2 
+|Classes and Objects II|Inheritance|Friday|2 
+|Classes and Objects II|Polymorphism|Friday|2 
+|Packages|Installing packages|Monday|3 
+|Packages|Using packages|Monday|3 
+|Packages|Creating packages|Monday|3 
+|Analyzing Data|Finding trends in data|Tuesday|3 
+|Analyzing Data|Organizing data|Tuesday|3 
+|Visualizing Data|Creating graphs and charts|Wednesday|3

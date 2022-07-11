@@ -1,0 +1,7 @@
+
+
+1. Interpret data using NumPy.
+
+2. Analyze data using NumPy.
+
+3. Evaluate data using NumPy.

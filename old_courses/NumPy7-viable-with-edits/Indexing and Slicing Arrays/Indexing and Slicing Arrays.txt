@@ -1,0 +1,136 @@
+#Indexing and Slicing Arrays
+#Indexing and Slicing Arrays
+
+#### Module Overview 
+ In this module on Indexing and Slicing Arrays, we'll discuss Indexing and Slicing Arrays. 
+
+ Learning Objectives: 
+
+-  Identify and index single and multiple dimensions of NumPy arrays
+-  Slice and resize NumPy arrays
+
+
+#### Indexing and Slicing Arrays
+
+Indexing and Slicing Arrays
+
+
+#### Module Overview 
+ In this module on Indexing and Slicing Arrays, we'll discuss Indexing and Slicing Arrays. 
+
+ Learning Objectives: 
+
+-  Identify and index single and multiple dimensions of NumPy arrays
+-  Slice and resize NumPy arrays
+
+
+#### Indexing and Slicing Arrays
+
+
+##### Indexing Arrays
+
+Let's get started by creating an array of random integers.
+
+```python
+import numpy as np
+
+arr = np.random.randint(1,10,size=(3,3))
+arr
+
+#array([[2, 3, 6],       #
+#       [9, 7, 3],       #
+#       [8, 5, 7]])      #
+```
+
+We can index elements of an array with square brackets and a comma-separated tuple of indices. The number of indices needed to index an array is equal to its number of dimensions.
+
+For example, we can index into the first dimension of the array with arr[0], the second dimension with arr[1], and the third dimension with arr[2].
+
+```python
+arr[0]
+
+#array([2, 3, 6])
+arr[1]
+
+#array([9, 7, 3])
+arr[2]
+
+#array([8, 5, 7])
+```
+
+We can also index arrays with multiple dimensions by passing a comma-separated list of indices. In this case, the number of indices must equal the number of dimensions of the array.
+
+For instance, we can index into the first and second dimensions of the array with arr[0,1].
+
+```python
+arr[0,1]
+
+#3
+```
+
+We can also index arrays with slices. Slices can be used to select ranges of elements. For example, the slice arr[0:2] returns the first two rows of the array arr.
+
+```python
+arr[0:2]
+
+#array([[2, 3, 6],     #
+#       [9, 7, 3]])    #
+```
+
+##### Exercise 1
+
+<img width="100" alt="creating a repo" src="https://drive.google.com/uc?export=view&id=1E8tR7B9YYUXsU_rddJAyq0FrM0MSelxZ">
+
+
+We've created the following array for you to work with:
+
+```python
+arr = np.random.randint(1,10,size=(3,3))
+arr
+
+#array([[2, 3, 6],       #
+#       [8, 9, 2],       #
+#       [3, 5, 7]])      #
+```
+
+1. Use slicing to index the first two rows and the first two columns of the array.
+2. Use indexing to index the element in the first row and first column of the array.
+
+**Solution**
+
+1. arr[0:2,0:2]
+2. arr[0,0]
+
+##### Indexing Arrays with Boolean Arrays
+
+We've seen how to index arrays with integers and slices. We can also index arrays with boolean arrays.
+
+Boolean arrays can be used to select elements of an array that satisfy some condition.
+
+For example, we can create a boolean array that is True when the elements of arr are greater than 5 and False otherwise.
+
+```python
+arr > 5
+
+#array([[False, False, False],      #
+#       [ True,  True, False],      #
+#       [ True, False,  True]], dtype=bool)
+```
+
+We can pass this boolean array to arr to select only the elements of arr that are greater than 5.
+
+```python
+arr[arr > 5]
+
+#array([8, 9, 7])
+```
+
+We can create boolean arrays that are True when multiple conditions are satisfied. For example, we can create a boolean array that is True when the elements of arr are greater than 5 and less than 8.
+
+```python
+(arr > 5) & (arr < 8)
+
+#array([False, False, False], dtype=bool)
+```
+
+We can use this boolean array to select only the elements

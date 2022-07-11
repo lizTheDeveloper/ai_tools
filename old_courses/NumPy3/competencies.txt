@@ -1,0 +1,7 @@
+
+
+1. Apply NumPy to different data structures including arrays, matrices, and vectors.
+
+2. Perform mathematical operations on NumPy data structures including addition, subtraction, multiplication, and division.
+
+3. Analyze and interpret NumPy data structures using various tools and techniques.

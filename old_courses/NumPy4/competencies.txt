@@ -1,0 +1,5 @@
+
+
+1. Create NumPy arrays
+2. Perform operations on NumPy arrays
+3. Manipulate NumPy arrays

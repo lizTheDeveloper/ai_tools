@@ -1,0 +1,5 @@
+
+
+1. Interpreting data in NumPy arrays
+2. Manipulating data in NumPy arrays
+3. Analyzing data in NumPy arrays

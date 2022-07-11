@@ -1,0 +1,25 @@
+
+4. Slicing and dicing NumPy arrays
+5. Merging and concatenating NumPy arrays
+6. Reshaping NumPy arrays
+7. Generating random numbers using NumPy
+8. Computing descriptive statistics using NumPy
+9. Visualizing data using NumPy
+
+Day 1:
+
+1. Creating and manipulating numerical data arrays using NumPy
+2. Performing mathematical operations on NumPy arrays
+3. Selecting and indexing data from NumPy arrays
+
+Day 2:
+
+1. Slicing and dicing NumPy arrays
+2. Merging and concatenating NumPy arrays
+3. Reshaping NumPy arrays
+
+Day 3:
+
+1. Generating random numbers using NumPy
+2. Computing descriptive statistics using NumPy
+3. Visualizing data using NumPy

@@ -1,0 +1,5 @@
+
+
+1. Generate hypotheses about data sets
+2. Develop models to analyze data
+3. Use statistical techniques to analyze data

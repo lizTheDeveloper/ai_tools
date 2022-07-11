@@ -1,0 +1,22 @@
+| item|day_number|week_number |
+ 
+ | --- | --- | --- |
+ | Introduction to NumPy|1|1|
+ | Why is NumPy useful?|1|1|
+ | Basic NumPy functions|1|1|
+ | Interpreting data using NumPy|2|1|
+ | How to read in data using NumPy|2|1|
+ | How to manipulate data using NumPy|2|1|
+ | How to visualize data using NumPy|2|1|
+ | Analyzing data using NumPy|3|1|
+ | Basic statistical analysis with NumPy|3|1|
+ | Advanced statistical analysis with NumPy|3|1|
+ | Evaluating data using NumPy|1|2|
+ | How to perform hypothesis testing with NumPy|1|2|
+ | How to create predictive models with NumPy|1|2|
+ | How to validate models with NumPy|1|2|
+ | Applying NumPy in real-world scenarios|2|2|
+ | NumPy case studies|2|2|
+ | Hands-on practice with NumPy|2|2|
+ | Q&A with instructor|2|2|
+ | Project work day|3|2|

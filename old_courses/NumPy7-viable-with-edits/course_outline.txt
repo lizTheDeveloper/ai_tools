@@ -1,0 +1,18 @@
+ -Introduction to NumPy
+ -Data Types and Array Creation
+ -Indexing and Slicing Arrays
+ -Manipulating Arrays
+
+ Week 2: 
+
+ -Advanced Array Manipulation
+ -Aggregation and Statistics
+ -Linear Algebra with NumPy
+ -Miscellaneous Topics
+
+ Week 3: 
+
+ -Working with NumPy in the real world
+ -NumPy with Pandas
+ -NumPy with SciPy
+ -NumPy with scikit-learn

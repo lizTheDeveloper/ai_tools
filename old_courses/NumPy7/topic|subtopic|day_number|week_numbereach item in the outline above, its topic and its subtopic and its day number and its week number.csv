@@ -1,0 +1,19 @@
+| topic|subtopic|day_number|week_number |
+ 
+ 
+ | —————|—————————————-|————————————-|—————————————-| 
+ |Introduction to NumPy|What is NumPy?|1|1| 
+ |Introduction to NumPy|Why is NumPy useful?|1|1| 
+ |Introduction to NumPy|Basic NumPy functions|1|1| 
+ |Interpreting data using NumPy|How to read in data using NumPy|2|1| 
+ |Interpreting data using NumPy|How to manipulate data using NumPy|2|1| 
+ |Interpreting data using NumPy|How to visualize data using NumPy|2|1| 
+ |Analyzing data using NumPy|Basic statistical analysis with NumPy|3|1| 
+ |Analyzing data using NumPy|Advanced statistical analysis with NumPy|3|1| 
+ |Evaluating data using NumPy|How to perform hypothesis testing with NumPy|1|2| 
+ |Evaluating data using NumPy|How to create predictive models with NumPy|1|2| 
+ |Evaluating data using NumPy|How to validate models with NumPy|1|2| 
+ |Applying NumPy in real-world scenarios|NumPy case studies|2|2| 
+ |Applying NumPy in real-world scenarios|Hands-on practice with NumPy|2|2| 
+ |Applying NumPy in real-world scenarios|Q&A with instructor|2|2| 
+ |Project work day|-|3|2|

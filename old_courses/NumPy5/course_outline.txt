@@ -1,0 +1,63 @@
+
+4. Communicate findings about data
+
+Week 1:
+
+Day 1:
+
+-Introduction to NumPy
+-Creating Arrays
+-Indexing and Slicing Arrays
+-Manipulating Arrays
+
+Day 2:
+
+-The NumPy ndarray: A Multidimensional Array Object
+-Operations Between Arrays and Scalars
+- Universal Functions: Fast Element-wise Array Functions
+- Array Processing with Broadcasting
+
+Day 3:
+
+-Boolean Indexing
+- Fancy Indexing
+- Sorting Arrays
+- Structured Data: NumPy’s Structured Arrays
+
+Week 2:
+
+Day 1:
+
+-Reading and Writing Array Data on Disk
+- Linear Algebra
+- Basic Linear Algebra
+
+Day 2:
+
+-Random Number Generation
+- Random Walks
+
+Day 3:
+
+-Saving and Loading NumPy Arrays
+- NumPy’s Text File Format
+
+Week 3:
+
+Day 1:
+
+-Introducing Pandas Objects
+- The Pandas Series Object
+- The Pandas DataFrame Object
+
+Day 2:
+
+-Indexing and Selection
+- Operations in Pandas
+- Handling Missing Data
+
+Day 3:
+
+-Hierarchical Indexing
+- Combining Datasets: Concat and Append
+- Aggregation and Grouping

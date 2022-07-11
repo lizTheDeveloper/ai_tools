@@ -1,0 +1,63 @@
+#NumPy: NumPy with scikit-learn
+#NumPy with scikit-learn
+
+#### Module Overview 
+ In this module on NumPy with scikit-learn, we'll discuss NumPy with scikit-learn. 
+
+ Learning Objectives: 
+
+-  **Introduction to NumPy**
+-  **NumPy with scikit-learn**
+
+#### NumPy: Introduction
+
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+#### NumPy: NumPy with scikit-learn
+
+scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+
+-  **Installation**
+
+You can install NumPy and scikit-learn on your system using pip:
+
+pip install numpy
+pip install scikit-learn
+
+-  **Loading the data**
+
+After installing NumPy and scikit-learn, you can load the data using the following code:
+
+import numpy as np
+from sklearn.datasets import load_iris
+iris = load_iris()
+X = iris.data
+y = iris.target
+
+-  **Splitting the data**
+
+After loading the data, you can split it into training and test sets using the following code:
+
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
+
+-  **Training the model**
+
+After splitting the data, you can train the model using the following code:
+
+from sklearn.svm import SVC
+svc = SVC()
+svc.fit(X_train, y_train)
+
+-  **Testing the model**
+
+After training the model, you can test it on the test set using the following code:
+
+y_pred = svc.predict(X_test)
+
+-  **Evaluating the model**
+
+After testing the model, you can evaluate it using the following code:
+
+from sklearn.metrics import classification_report
+print(classification_report(y_test, y_pred))

@@ -1,0 +1,8 @@
+
+    # Module Overview 
+    This week we'll be covering the following competencies:
+    {competencies}
+
+    {module_overview}
+
+    

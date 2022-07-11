@@ -1,0 +1,47 @@
+
+
+Day 1:
+
+Introduction to NumPy 
+
+-What is NumPy? 
+-Why is NumPy useful? 
+-Basic NumPy functions 
+
+Day 2:
+
+Interpreting data using NumPy 
+
+-How to read in data using NumPy 
+-How to manipulate data using NumPy 
+-How to visualize data using NumPy 
+
+Day 3: 
+
+Analyzing data using NumPy 
+
+-Basic statistical analysis with NumPy 
+-Advanced statistical analysis with NumPy 
+
+Week 2: 
+
+Day 1: 
+
+Evaluating data using NumPy 
+
+-How to perform hypothesis testing with NumPy 
+-How to create predictive models with NumPy 
+-How to validate models with NumPy 
+
+Day 2: 
+
+Applying NumPy in real-world scenarios 
+
+-NumPy case studies 
+-Hands-on practice with NumPy 
+-Q&A with instructor 
+
+Day 3: 
+
+Project work day 
+

@@ -1,0 +1,136 @@
+#NumPy: Advanced Array Manipulation
+#Advanced Array Manipulation
+
+#### Module Overview 
+ In this module on Advanced Array Manipulation, we'll discuss Advanced Array Manipulation. 
+
+ Learning Objectives: 
+
+-  Creating Arrays 
+-  Manipulating Arrays 
+-  Reading and Writing Arrays 
+-  Broadcasting Arrays 
+-  Creating Structured Arrays 
+-  Sorting Arrays 
+-  Searching Arrays 
+-  Set Operations 
+-  Calculating with Arrays 
+-  Linear Algebra 
+-  Random Number Generation 
+
+#### Creating Arrays 
+
+
+```python
+## Creating Arrays 
+```
+
+
+```python
+import numpy as np
+```
+
+
+```python
+# Creating Arrays 
+```
+
+
+```python
+## Manipulating Arrays 
+```
+
+
+```python
+# Manipulating Arrays 
+```
+
+
+```python
+## Reading and Writing Arrays 
+```
+
+
+```python
+# Reading and Writing Arrays 
+```
+
+
+```python
+## Broadcasting Arrays 
+```
+
+
+```python
+# Broadcasting Arrays 
+```
+
+
+```python
+## Creating Structured Arrays 
+```
+
+
+```python
+# Creating Structured Arrays 
+```
+
+
+```python
+## Sorting Arrays 
+```
+
+
+```python
+# Sorting Arrays 
+```
+
+
+```python
+## Searching Arrays 
+```
+
+
+```python
+# Searching Arrays 
+```
+
+
+```python
+## Set Operations 
+```
+
+
+```python
+# Set Operations 
+```
+
+
+```python
+## Calculating with Arrays 
+```
+
+
+```python
+# Calculating with Arrays 
+```
+
+
+```python
+## Linear Algebra 
+```
+
+
+```python
+# Linear Algebra 
+```
+
+
+```python
+## Random Number Generation 
+```
+
+
+```python
+# Random Number Generation 
+```

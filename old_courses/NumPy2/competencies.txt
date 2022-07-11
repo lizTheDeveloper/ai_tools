@@ -1,0 +1,7 @@
+
+
+Competencies for a data scientist:
+
+1. Creating and manipulating numerical data arrays using NumPy
+2. Performing mathematical operations on NumPy arrays
+3. Selecting and indexing data from NumPy arrays

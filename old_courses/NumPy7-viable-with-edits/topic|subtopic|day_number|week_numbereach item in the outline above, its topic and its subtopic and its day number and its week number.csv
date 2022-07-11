@@ -1,0 +1,15 @@
+| topic|subtopic|day_number|week_number |
+  
+|------|--------|----------|-------------|
+|Introduction to NumPy|Introduction to NumPy|1|1|
+|Data Types and Array Creation|Data Types and Array Creation|1|1|
+|Indexing and Slicing Arrays|Indexing and Slicing Arrays|1|1|
+|Manipulating Arrays|Manipulating Arrays|1|1|
+|Advanced Array Manipulation|Advanced Array Manipulation|2|2|
+|Aggregation and Statistics|Aggregation and Statistics|2|2|
+|Linear Algebra with NumPy|Linear Algebra with NumPy|2|2|
+|Miscellaneous Topics|Miscellaneous Topics|2|2|
+|Working with NumPy in the real world|Working with NumPy in the real world|3|3|
+|NumPy with Pandas|NumPy with Pandas|3|3|
+|NumPy with SciPy|NumPy with SciPy|3|3|
+|NumPy with scikit-learn|NumPy with scikit-learn|3|3|
